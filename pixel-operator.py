@@ -20,3 +20,4 @@ print("Mask for pixels between 100 and 150:\n",mask)
 img[mask] = 255
 print("Image after highlighting pixels between 100 and 150:\n",img)
 
+print("End of the program")
